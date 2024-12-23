@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WeaponW</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on WeaponW</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 18:01:54 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assault rifles</title>
+      <link>http://localhost:1313/posts/vandal/</link>
+      <pubDate>Thu, 10 Oct 2024 18:01:54 +0300</pubDate>
+      <guid>http://localhost:1313/posts/vandal/</guid>
+      <description>&lt;h2 id=&#34;штурмовые-винтовки---основное-оружие-которое-покупают-агенты-нацеленные-на-огневую-мощь-команды&#34;&gt;Штурмовые винтовки - основное оружие, которое покупают агенты, нацеленные на огневую мощь команды.&lt;/h2&gt;&#xA;&lt;p&gt;Vandal имея стоимость 2900 кредитов является одной из самых дорогих штурмовых винтовок в игре . Vandal подходит для стрельбы на средних и дальних дистанциях. В отличии от Phantom имеет меньшую скорострельность и количество патронов, восполняя это большим уроном и мгновенными убийствами в голову. Vandal следует покупать в случае если у вас хватает денег на полную закупку. Если у вас при покупке этого оружия не хватает денег на броню и умения агентов, то следует вместо Vandal купить менее дорогое оружие, например Stinger.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Knifes</title>
+      <link>http://localhost:1313/posts/knife/</link>
+      <pubDate>Thu, 10 Oct 2024 18:01:54 +0300</pubDate>
+      <guid>http://localhost:1313/posts/knife/</guid>
+      <description>&lt;h2 id=&#34;knifes&#34;&gt;Knifes&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Pistols</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Oct 2024 18:01:54 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;пистолетные-раунды---одни-из-важнейших-вещей-которые-задают-крепкую-экономику-вашей-команде&#34;&gt;Пистолетные раунды - одни из важнейших вещей, которые задают крепкую экономику вашей команде.&lt;/h2&gt;&#xA;&lt;p&gt;Ghost - один из лучших пистолетов в игре. У него есть достаточно высокая скорострельность и внушительный урон. Чаще всего берется в пистолетных раундах из-за своей средней стоимости среди других представителей данного класса. Так же у него есть глушитель, что делает его тише по сравнению с другими оружиями, позволяя передвигаться по карте скрытно. Обычно требуется 1-3 патрона в голову и 4-6 патронов в тело.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
